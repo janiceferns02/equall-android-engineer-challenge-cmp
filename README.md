@@ -2,7 +2,8 @@
 
 **A state-driven loan lifecycle experience built using Compose Multiplatform.**
 
-* Tech Stack
+**Tech Stack**
+
 * Compose Multiplatform (CMP)
 * Jetpack Compose
 * MVVM Architecture
